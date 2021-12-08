@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working at [Max Planck Institue for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig and am part of the [Economics Group](https://www.mis.mpg.de/jjost/research/economics.html). 
 
-- 🌱 I’m currently learning about estimation, validation and calibration of agent-based models using the method of simulated moments.
-- 👯 I discover the relevance of (broken) ergodicity in another context almost every day. I’m looking to collaborate with passionate people on further developing ergodicity economics (EE) and applying it to open research problems and specific real-word problems in economics or elsewhere.
+- 🌱 I’m currently learning about the estimation of agent-based models using the method of simulated moments.
+- 👯 I discover the relevance of (broken) ergodicity in new contexts almost every day. I’m looking to collaborate with passionate people on further developing ergodicity economics (EE) and applying it to open research problems or specific real-word problems in economics or elsewhere.
 <!--
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact:  
