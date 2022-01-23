@@ -1,4 +1,5 @@
-### Hi there 👋 Welcome to my Github profile
+### Hi there, I am Mark, 👋 Welcome to my Github profile
+[![Twitter Follow](https://img.shields.io/twitter/follow/nonergodicmark?label=Follow&style=social)](https://twitter.com/nonergodicmark)
 
 <!--
 **MarkK09/MarkK09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +18,10 @@
 
 ## &#x1f4c8; My GitHub Stats
 ![Mark's github stats](https://github-readme-stats.vercel.app/api?username=MarkK09&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkK09&hide=Tex,Makefile)](https://github.com/MarkK09/github-readme-stats)
+
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MarkK09/count.svg" />
+</p>
